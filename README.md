@@ -1,20 +1,23 @@
 # mehmet-data-portfolio
-# 📊 Mehmet Salih Karaca – HR Analytics & Data Visualization Portfolio
+# Mehmet Salih Karaca – Analytics & Data Visualization Portfolio
 
 **Welcome to my portfolio!**  
-I'm a data-driven professional specializing with experience in **Power BI dashboards, recruitment analytics, and workforce planning**. Below are my projects that demonstrate how I leverage data visualization to enhance decision-making.
+I'm a data-driven professional specializing with experience in **Power BI dashboards, data analytics, and workforce planning**. Below are my projects that demonstrate how I leverage data visualization to enhance decision-making.
 
 ---
 
 
 ### 1) Recruitment Metrics Dashboard
-📌 **Overview**: Analyzes hiring pipeline, recruiter performance, and hiring efficiency.  
-🛠 **Tools Used**: Power BI, SAP SuccessFactors, SQL  
-📊 **Key Features**: 
+**Overview**: Analyzes hiring pipeline, recruiter performance, and hiring efficiency.  
+
+**Tools Used**: Power BI, SAP SuccessFactors,  
+
+**Key Features**: 
+
 - Recruitment Funnel Analysis  
 - Source Effectiveness Breakdown  
 - Time-to-Hire & Drop-off Rate  
-📈 **Impact**: Improved recruitment visibility by **40%**, reduced hiring time.  
+ 
 
 ---
 
