@@ -5,7 +5,7 @@
 I'm a data-driven professional specializing with experience in **Power BI dashboards, data analytics, and workforce planning**. Below are my projects that demonstrate how I leverage data visualization to enhance decision-making.
 
 ---
-
+![Recruitment analytics](https://github.com/mesakaraca/mehmet-data-portfolio/raw/refs/heads/main/Recruitment%20analytics) 
 
 ### 1) Recruitment Metrics Dashboard
 **Overview**: Analyzes hiring pipeline, recruiter performance, and hiring efficiency.  
