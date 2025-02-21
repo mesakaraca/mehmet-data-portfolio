@@ -21,6 +21,8 @@ I'm a data-driven professional specializing with experience in **Power BI dashbo
 
 ---
 
+![Workforce Planning](https://github.com/mesakaraca/mehmet-data-portfolio/raw/refs/heads/main/Workforce%20Planning) 
+
 ## 2) How to Use These Dashboards Leave Management Dashboard
 **Overview**: Tracks employee leave trends, workforce availability, and scheduling.  
 
